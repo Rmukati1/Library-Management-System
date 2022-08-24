@@ -1,0 +1,13 @@
+Librarian login detail are predifined.
+
+Code can login and  regitered the Student and Professor
+
+Librarian can add delete book and user
+
+Student and Professor can display all book or booked book
+
+They can also see total fine and clear their fine
+
+They can also see due dtae of particular book and request book
+
+Student can not book more than 5 books
